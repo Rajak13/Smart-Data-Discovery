@@ -1,0 +1,20 @@
+I am referencing the data world article on Smart Data Discovery to learn about the basics of Smart Data Discovery.
+The article link is : https://data.world/blog/smart-data-discovery/
+
+To put in simple words, Smart Data Discovery is an approach used by data analysts to figure out important
+insights from complex datasets. It is smart as it removes the reliablilty on manual processes that were used
+traditionally and automates much of the process. It usex Machine Learning and AI to analyze patterns/trends and find
+relationships amongst the data that may have gone unnoticed if done manually.
+
+#Evolution of Data Discovery
+
+First versions of Data Discovery required much technical expersite and a large amount of time to extract insights
+manually. This led to delays in analysis and the chances of human making errors were also much higher.
+
+Due to the exponential increase of data, such traditional methods became impractical. They can't meet 
+the demands of modern businesses and to address this challenge, Gartner came up with an AI-driven approach.
+
+Smart Data Discovery has enabled us to analyze large volumes of data, powered by machine learning. An example would
+be Ltft- they developed Amunsden- a data discovery and metadata engine. This tool provides a centralized search interface
+through which data scientists can quickly find datasets and their owners.
+
