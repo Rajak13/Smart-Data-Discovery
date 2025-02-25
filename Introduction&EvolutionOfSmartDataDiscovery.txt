@@ -15,6 +15,11 @@ Due to the exponential increase of data, such traditional methods became impract
 the demands of modern businesses and to address this challenge, Gartner came up with an AI-driven approach.
 
 Smart Data Discovery has enabled us to analyze large volumes of data, powered by machine learning. An example would
-be Ltft- they developed Amunsden- a data discovery and metadata engine. This tool provides a centralized search interface
-through which data scientists can quickly find datasets and their owners.
+be Ltft- they developed Amunsden- a data discovery and metadata engine. This tool provides a centralized search interface through which data scientists can quickly find datasets and their owners.
+
+#Benefits of smart data discovery
+- Efficiency: Smart Data Discovery enables for automation of repetitive tasks like data preparation and visualization that allows you to focus on more important tasks.
+-Accessibility: Even non-technical users can access and understand data. The creation of highly data-driven organization that is 3x more likely to make better decisions.
+-Scalibility: Intregrates data from multiple sources and adapts quickly to growing demands.
+-Actionable insights: Highlights important patterns and anomalies within data to help you act on opportunities and challenges. For example, Netflix uses smart data discovery to identify viewing trends and provide real-time recommendations based on viewers interests.
 
