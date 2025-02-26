@@ -1,0 +1,32 @@
+# Introduction
+
+For smart data and discovery, we will be utilizing Python.We shall be working with some common libaraies
+like:
+-numpy: this libary helps with mathematical operations.
+-matplotlib: this libary helps with visualization of data through figures.
+-pandas: this libary helps with data manipulation and analysis.
+
+# Data Science
+- It refres to the methods and techniques for extracting useful information from a set of data.
+- It is a field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from structured and unstructured data.
+- It  helps businesses gain competitive advantage, increase performance and satisfy customers.
+
+# Data analytics lifecycle
+i. Data understanding: Refers to understanding the data and the problem.
+ii. Data preparation: Refers to cleaning and transforming the data.
+iii. Modelling: Refers to building the model.
+iv. Evaluation: Refers to evaluating the model.
+v. Deployment: Refers to deploying the model.
+
+#Common Data Mining Tasks
+i. Classification: Refers to predicting a discrete label.
+ii. Regression: Refers to predicting a continuous value.
+iii. Clustering: Refers to grouping similar data points together.
+iv. Association: Refers to finding rules that describe large portions of your data.
+v. Anomaly Detection: Refers to finding outliers in your data.
+vi. Sequence Mining: Refers to finding patterns in sequences of data.
+vii. Dimensionality Reduction: Refers to reducing the number of input variables.
+viii. Recommendation: Refers to recommending items to users.
+ix. Text Mining: Refers to extracting information from text.
+x. Web Mining: Refers to extracting information from web data.
+
