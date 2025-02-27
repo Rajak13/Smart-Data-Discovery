@@ -12,11 +12,12 @@ like:
 - It  helps businesses gain competitive advantage, increase performance and satisfy customers.
 
 # Data analytics lifecycle
-i. Data understanding: Refers to understanding the data and the problem.
-ii. Data preparation: Refers to cleaning and transforming the data.
-iii. Modelling: Refers to building the model.
-iv. Evaluation: Refers to evaluating the model.
-v. Deployment: Refers to deploying the model.
+i. Business understanding: Refers to understanding the business problem.
+ii. Data understanding: Refers to understanding the data and the problem.
+iii. Data preparation: Refers to cleaning and transforming the data.
+iv. Modelling: Refers to building the model for predicting the outcome.
+v. Evaluation: Refers to evaluating the model for accuracy and performance.
+vi. Deployment: Refers to deploying the model in production form.
 
 #Common Data Mining Tasks
 i. Classification: Refers to predicting a discrete label.
