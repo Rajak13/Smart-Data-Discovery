@@ -31,3 +31,9 @@ viii. Recommendation: Refers to recommending items to users.
 ix. Text Mining: Refers to extracting information from text.
 x. Web Mining: Refers to extracting information from web data.
 
+#Common Data Mining Algorithms
+i. Linear Regression : Refers to predicting a continuous value.
+ii. Logistic Regression : Refers to predicting a discrete label.
+iii. Decision Trees : Refers to predicting a  value
+iv. Random Forests : Refers to predicting a satisfying label.
+v. Support Vector Machines : Refers to predicting a continuous value.
