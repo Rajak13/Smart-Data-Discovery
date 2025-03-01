@@ -23,3 +23,19 @@ be Ltft- they developed Amunsden- a data discovery and metadata engine. This too
 -Scalibility: Intregrates data from multiple sources and adapts quickly to growing demands.
 -Actionable insights: Highlights important patterns and anomalies within data to help you act on opportunities and challenges. For example, Netflix uses smart data discovery to identify viewing trends and provide real-time recommendations based on viewers interests.
 
+#Challenges of smart data discovery
+- Data quality: Smart data discovery relies on the quality of the data. If the data is incomplete, inaccurate, or inconsistent, the insights generated may be unreliable. This is why data cleaning and preparation is a crucial step.
+- Integration: Integrating data from multiple sources can be challenging. Different data sources may have different formats, structures, and semantics, making it difficult to combine them into a single, coherent dataset.
+- Security: Smart data discovery involves accessing and analyzing sensitive data, which raises concerns about data privacy and security. It's important to ensure that data is protected and that access is controlled and monitored.
+- Cost: Implementing smart data discovery can be expensive, requiring investment in technology, infrastructure, and expertise. It's important to weigh the benefits against the costs and ensure that the investment is justified.
+- Complexity: Smart data discovery can be complex, requiring a deep understanding of data, analytics, and technology. This can be a barrier for organizations that lack the necessary expertise.
+
+# Why is this necessary?
+
+- To make data-driven decisions, you need to be able to find and access the data you need quickly and easily. Smart data discovery helps you do that by making data more accessible and searchable.
+- It helps you to understand the context and meaning of data, which is crucial for making informed decisions.
+- It helps you to identify trends, patterns, and anomalies in data, which can help you to spot opportunities and risks.
+- It helps you to integrate data from multiple sources, which can provide a more complete picture of the situation.
+- It helps you to ensure that data is accurate, complete, and up-to-date, which is crucial for making reliable decisions.
+- It helps you to automate and streamline data discovery and analysis processes, which can save time and effort.
+
