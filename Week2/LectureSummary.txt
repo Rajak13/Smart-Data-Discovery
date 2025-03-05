@@ -1,0 +1,13 @@
+#Introduction to Data and Python
+
+- Data can be reffered to as information, facts or numbers.
+- It is a set of variables which can be qualitative or quantitative
+
+---------------------------------------------------------------------------------
+|Quantitative Data                       | Qualitative Data                      | 
+----------------------------------------------------------------------------------
+|It can be measured                      |Cannot be measured                     |
+|Includes numbers and statistics         |Includes text, video, pictures, audio  |
+|Answers: How much?, How many? How Often?|Answers: How and Why?                  |
+|Includes continuos and discrete data    |Includes nominal, ordinal data         |
+----------------------------------------------------------------------------------
